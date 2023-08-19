@@ -37,4 +37,4 @@ Making this website cost me but I liked the final result although it needs impro
 - [restcountries api](https://restcountries.com/)
 
 ## Author
-- Fronter Mentor - [](https://www.frontendmentor.io/profile/Therocking)
+- Fronter Mentor - [autor](https://www.frontendmentor.io/profile/Therocking)
