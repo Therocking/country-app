@@ -3,7 +3,7 @@
 This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## run scripts
-yarn
+1yarn
 yarn dev
 
 ## build scripts
@@ -23,7 +23,7 @@ Making this website cost me but I liked the final result although it needs impro
 ![](design/Captura%20de%20pantalla_2023-08-19_16-07-30.png)
 
 ### Links
-- Solution URL: [solucion]()
+- Solution URL: [solucion](https://www.frontendmentor.io/solutions/restcountries-made-with-html-css-flexbox-and-react-ipEljlyzJU)
 - Live Site URL: [live site](https://fastidious-peony-c0a314.netlify.app/)
 
 ### Built with
