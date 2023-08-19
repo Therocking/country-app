@@ -1,0 +1,101 @@
+
+
+/* body */
+.bodyDark {
+    background-color: var(--VeryDarkBlue_Dark_Mode_Background);
+}
+
+.bodylight {
+    background-color: var(--VeryLightGray_Light_Mode_Background);
+}
+
+/* header */
+.headerLight {
+    background-color: var(--DarkGray_Light_Mode_Input);
+    color: var(--VeryDarkBlue_Light_Mode_Text);
+}
+
+.headerDark {
+    background-color: var(--DarkBlue_Dark_Mode_Elements);
+    color: var(--White_Dark_Mode_Text_Mode_Elements);
+}
+
+/* input */
+.inputLight {
+    background-color: var(--DarkGray_Light_Mode_Input);
+    color: var(--VeryDarkBlue_Light_Mode_Text);
+}
+
+.inputLight::placeholder {
+    color: var(--VeryDarkBlue_Light_Mode_Text);
+}
+
+.inputDark {
+    background-color: var(--DarkBlue_Dark_Mode_Elements);
+    color: var(--White_Dark_Mode_Text_Mode_Elements);
+}
+
+.inputDark::placeholder {
+    color: var(--White_Dark_Mode_Text_Mode_Elements);
+}
+
+/* regions */
+.regionsLight {
+    background-color: var(--DarkGray_Light_Mode_Input);
+    color: var(--VeryDarkBlue_Light_Mode_Text);
+}
+
+.regionsDark {
+    background-color: var(--DarkBlue_Dark_Mode_Elements);
+    color: var(--White_Dark_Mode_Text_Mode_Elements);
+}
+
+/* cardInfo */
+.cardInfoLight {
+    background-color: var(--DarkGray_Light_Mode_Input);
+}
+
+.cardInfoDark {
+    background-color: var(--DarkBlue_Dark_Mode_Elements);
+}
+
+.h4Lihgt {
+    color: var(--VeryDarkBlue_Light_Mode_Text);
+}
+
+.h4Dark {
+    color: var(--White_Dark_Mode_Text_Mode_Elements);
+}
+
+p {
+    color: var(--VeryDarkBlue_Light_Mode_Text);
+}
+
+/* detail page */
+.BackLight {
+    background-color: var(--DarkGray_Light_Mode_Input);
+    color: var(--VeryDarkBlue_Light_Mode_Text);
+}
+
+.backDark {
+    background-color: var(--DarkBlue_Dark_Mode_Elements);
+    color: var(--White_Dark_Mode_Text_Mode_Elements);
+}
+
+.h2Light {
+    color: var(--VeryDarkBlue_Light_Mode_Text);
+}
+
+.h2Dark {
+    color: var(--White_Dark_Mode_Text_Mode_Elements);
+}
+
+.borderLight {
+    background-color: var(--DarkGray_Light_Mode_Input);
+    color: var(--VeryDarkBlue_Light_Mode_Text);
+}
+
+.borderDark {
+    background-color: var(--DarkBlue_Dark_Mode_Elements);
+    color: var(--White_Dark_Mode_Text_Mode_Elements);
+}

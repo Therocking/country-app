@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en <CardInfo/> debe hacer match con el snapshot 1`] = `"<div aria-label="card-info" class="card-info"><figure><img src="htttp://unabandera.com" loading="lazy" alt="alemania.png"></figure><article class="info-contry"><h4>alemania</h4><p>populaton: <span>456,454</span> </p><p>region: <span>europe</span> </p><p>capital: <span>berlin</span> </p></article></div>"`;
