@@ -19,9 +19,9 @@ export const SelectRegion = () => {
     const regionsSelect = document.getElementById("regions");
     const valorLocalStorage = localStorage.getItem('region');
     
-    if (valorLocalStorage) {
-      regionsSelect.value = valorLocalStorage;
-    }
+    if ( !valorLocalStorage ) {
+      regionsSelect.value = "default";
+    }else regionsSelect.value = valorLocalStorage;
   }, []);
 
   return (

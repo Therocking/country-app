@@ -24,12 +24,10 @@ export const ContriesApp = () => {
 }
 
 
-// todo
+//* mejoras
 /* 
-  switcher mode,
-  organizar los paises frontera y mostrar todos,
+  al escribir mostrar solo los paises de la region selecionada,
   guardar historial de busqueda,
-  guardar historial de regiones,
   arreglar problema de la barra de scroll,
   agregar boton al inicio,
   agregar mostrar paises random
