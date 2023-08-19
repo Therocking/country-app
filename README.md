@@ -3,11 +3,11 @@
 This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## run scripts
-1yarn
-yarn dev
+1. yarn
+2. yarn dev
 
 ## build scripts
-yarn build
+1. yarn build
 
 ## My experince
 
