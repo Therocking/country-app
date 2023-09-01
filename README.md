@@ -24,7 +24,7 @@ Making this website cost me but I liked the final result although it needs impro
 
 ### Links
 - Solution URL: [solucion](https://www.frontendmentor.io/solutions/restcountries-made-with-html-css-flexbox-and-react-ipEljlyzJU)
-- Live Site URL: [live site](https://fastidious-peony-c0a314.netlify.app/)
+- Live Site URL: [live site](https://countries-app-chalenge.netlify.app/)
 
 ### Built with
 - HTML5
