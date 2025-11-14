@@ -2,9 +2,8 @@ import { useMemo } from 'react';
 import { useNavigate } from 'react-router-dom'
 
 
-export const CardInfo = ({name, population, region, capital, flags}) => {
+export const CardInfo = ({name, population, region, capital, flag}) => {
   const navigate = useNavigate();
-  // console.log(capital[0]);
 
   const onSelectCountry = () => {
    navigate(`/country/${name.common}`)
@@ -15,9 +14,9 @@ export const CardInfo = ({name, population, region, capital, flags}) => {
   return (
     <div onClick={ onSelectCountry } aria-label="card-info" className="card-info">
   
-          <figure>
-              <img src={flags.png} loading="lazy" alt={`${name.common}.png`} />
-          </figure>
+          <p>
+            {flag}
+          </p>
 
           <article className="info-contry">
               <h4>{name.common}</h4>
